@@ -2,6 +2,7 @@
 
 Welcome to the **Incomplete Orders Dashboard** project! This dashboard is designed to streamline the monitoring and sharing of incomplete orders within our work environment. 
 
+🔧 Tools: Power BI, Excel, Jupyter Notebook, QlikSense
 ## Overview
 
 Every month, we undertake the task of tracking orders that have passed their expected delivery or completion dates but remain unresolved. This process involves gathering weekly files from a global database to ensure comprehensive monitoring. Given the involvement of multiple stakeholders, I've created this dashboard in PowerBI. The dashboard provides a real-time view of our progress, making it easier to share updates and collaborate effectively.
